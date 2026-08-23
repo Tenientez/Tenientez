@@ -35,7 +35,6 @@ Además: Wolfram Mathematica (FeynCalc)
 
 ---
 
-### Contribuciones
 
 ![snake](https://raw.githubusercontent.com/Tenientez/Tenientez/output/snake-dark.svg)
 <!--
